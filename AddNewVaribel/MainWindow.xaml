@@ -1,0 +1,17 @@
+﻿<Window x:Class="AddNewVaribel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AddNewVaribel"
+        mc:Ignorable="d"
+        Title="MainWindow" MaxHeight="600" MaxWidth="600">
+    <Grid x:Name="GR">
+        <StackPanel x:Name="ST_all" >
+            <Button x:Name="BT_AddVarivels" Content="добавить переменную"/>
+            <TextBox x:Name="TB_FirstVar" Visibility="Hidden" />
+            <TextBox x:Name="TB_SecondVar" Visibility="Hidden" />
+            <TextBox x:Name="Itog" Visibility="Hidden"/>
+        </StackPanel>
+    </Grid>
+</Window>

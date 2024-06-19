@@ -1,0 +1,14 @@
+C:\Users\kosty\source\repos\OtherVisaviTasks\bookstuscks\bin\Debug\bookstuscks.exe.config
+C:\Users\kosty\source\repos\OtherVisaviTasks\bookstuscks\bin\Debug\bookstuscks.exe
+C:\Users\kosty\source\repos\OtherVisaviTasks\bookstuscks\bin\Debug\bookstuscks.pdb
+C:\Users\kosty\source\repos\OtherVisaviTasks\bookstuscks\obj\Debug\bookstuscks.csproj.AssemblyReference.cache
+C:\Users\kosty\source\repos\OtherVisaviTasks\bookstuscks\obj\Debug\bookstuscks.csproj.CoreCompileInputs.cache
+C:\Users\kosty\source\repos\OtherVisaviTasks\bookstuscks\obj\Debug\bookstuscks.exe
+C:\Users\kosty\source\repos\OtherVisaviTasks\bookstuscks\obj\Debug\bookstuscks.pdb
+C:\Users\kosty\OneDrive\Рабочий стол\OtherVisaviTasks\bookstuscks\bin\Debug\bookstuscks.exe.config
+C:\Users\kosty\OneDrive\Рабочий стол\OtherVisaviTasks\bookstuscks\bin\Debug\bookstuscks.exe
+C:\Users\kosty\OneDrive\Рабочий стол\OtherVisaviTasks\bookstuscks\bin\Debug\bookstuscks.pdb
+C:\Users\kosty\OneDrive\Рабочий стол\OtherVisaviTasks\bookstuscks\obj\Debug\bookstuscks.csproj.AssemblyReference.cache
+C:\Users\kosty\OneDrive\Рабочий стол\OtherVisaviTasks\bookstuscks\obj\Debug\bookstuscks.csproj.CoreCompileInputs.cache
+C:\Users\kosty\OneDrive\Рабочий стол\OtherVisaviTasks\bookstuscks\obj\Debug\bookstuscks.exe
+C:\Users\kosty\OneDrive\Рабочий стол\OtherVisaviTasks\bookstuscks\obj\Debug\bookstuscks.pdb

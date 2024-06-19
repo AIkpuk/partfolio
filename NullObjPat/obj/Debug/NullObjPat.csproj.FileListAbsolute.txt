@@ -1,0 +1,7 @@
+C:\Users\kosty\source\repos\OtherVisaviTasks\NullObjPat\bin\Debug\NullObjPat.exe.config
+C:\Users\kosty\source\repos\OtherVisaviTasks\NullObjPat\bin\Debug\NullObjPat.exe
+C:\Users\kosty\source\repos\OtherVisaviTasks\NullObjPat\bin\Debug\NullObjPat.pdb
+C:\Users\kosty\source\repos\OtherVisaviTasks\NullObjPat\obj\Debug\NullObjPat.csproj.AssemblyReference.cache
+C:\Users\kosty\source\repos\OtherVisaviTasks\NullObjPat\obj\Debug\NullObjPat.csproj.CoreCompileInputs.cache
+C:\Users\kosty\source\repos\OtherVisaviTasks\NullObjPat\obj\Debug\NullObjPat.exe
+C:\Users\kosty\source\repos\OtherVisaviTasks\NullObjPat\obj\Debug\NullObjPat.pdb

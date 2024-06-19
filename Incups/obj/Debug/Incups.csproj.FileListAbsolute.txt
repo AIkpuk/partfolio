@@ -1,0 +1,7 @@
+C:\Users\kosty\source\repos\OtherVisaviTasks\Incups\obj\Debug\Incups.csproj.AssemblyReference.cache
+C:\Users\kosty\source\repos\OtherVisaviTasks\Incups\obj\Debug\Incups.csproj.CoreCompileInputs.cache
+C:\Users\kosty\source\repos\OtherVisaviTasks\Incups\bin\Debug\Incups.exe.config
+C:\Users\kosty\source\repos\OtherVisaviTasks\Incups\bin\Debug\Incups.exe
+C:\Users\kosty\source\repos\OtherVisaviTasks\Incups\bin\Debug\Incups.pdb
+C:\Users\kosty\source\repos\OtherVisaviTasks\Incups\obj\Debug\Incups.exe
+C:\Users\kosty\source\repos\OtherVisaviTasks\Incups\obj\Debug\Incups.pdb

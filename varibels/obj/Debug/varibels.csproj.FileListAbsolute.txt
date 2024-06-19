@@ -1,0 +1,15 @@
+C:\Users\kosty\source\repos\OtherVisaviTasks\varibels\bin\Debug\varibels.exe.config
+C:\Users\kosty\source\repos\OtherVisaviTasks\varibels\bin\Debug\varibels.exe
+C:\Users\kosty\source\repos\OtherVisaviTasks\varibels\bin\Debug\varibels.pdb
+C:\Users\kosty\source\repos\OtherVisaviTasks\varibels\obj\Debug\varibels.csproj.AssemblyReference.cache
+C:\Users\kosty\source\repos\OtherVisaviTasks\varibels\obj\Debug\MainWindow.g.cs
+C:\Users\kosty\source\repos\OtherVisaviTasks\varibels\obj\Debug\App.g.cs
+C:\Users\kosty\source\repos\OtherVisaviTasks\varibels\obj\Debug\varibels_MarkupCompile.cache
+C:\Users\kosty\source\repos\OtherVisaviTasks\varibels\obj\Debug\varibels_MarkupCompile.lref
+C:\Users\kosty\source\repos\OtherVisaviTasks\varibels\obj\Debug\MainWindow.baml
+C:\Users\kosty\source\repos\OtherVisaviTasks\varibels\obj\Debug\varibels.g.resources
+C:\Users\kosty\source\repos\OtherVisaviTasks\varibels\obj\Debug\varibels.Properties.Resources.resources
+C:\Users\kosty\source\repos\OtherVisaviTasks\varibels\obj\Debug\varibels.csproj.GenerateResource.cache
+C:\Users\kosty\source\repos\OtherVisaviTasks\varibels\obj\Debug\varibels.csproj.CoreCompileInputs.cache
+C:\Users\kosty\source\repos\OtherVisaviTasks\varibels\obj\Debug\varibels.exe
+C:\Users\kosty\source\repos\OtherVisaviTasks\varibels\obj\Debug\varibels.pdb

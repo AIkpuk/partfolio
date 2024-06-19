@@ -1,0 +1,7 @@
+C:\Users\kosty\source\repos\OtherVisaviTasks\Patterns\bin\Debug\Patterns.exe.config
+C:\Users\kosty\source\repos\OtherVisaviTasks\Patterns\bin\Debug\Patterns.exe
+C:\Users\kosty\source\repos\OtherVisaviTasks\Patterns\bin\Debug\Patterns.pdb
+C:\Users\kosty\source\repos\OtherVisaviTasks\Patterns\obj\Debug\Patterns.csproj.AssemblyReference.cache
+C:\Users\kosty\source\repos\OtherVisaviTasks\Patterns\obj\Debug\Patterns.csproj.CoreCompileInputs.cache
+C:\Users\kosty\source\repos\OtherVisaviTasks\Patterns\obj\Debug\Patterns.exe
+C:\Users\kosty\source\repos\OtherVisaviTasks\Patterns\obj\Debug\Patterns.pdb

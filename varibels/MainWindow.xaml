@@ -1,0 +1,14 @@
+﻿<Window x:Class="varibels.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:varibels"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="GridA">
+        <Button Margin="544,41,10,332" Click="Button_Click"/>
+        <StackPanel x:Name="st" Margin="0,0,261,138"/>
+        <TextBox Margin="56,323,317,48"/>
+    </Grid>
+</Window>

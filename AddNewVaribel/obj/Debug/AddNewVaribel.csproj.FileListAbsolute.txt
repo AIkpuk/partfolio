@@ -1,0 +1,15 @@
+C:\Users\kosty\source\repos\OtherVisaviTasks\AddNewVaribel\bin\Debug\AddNewVaribel.exe.config
+C:\Users\kosty\source\repos\OtherVisaviTasks\AddNewVaribel\bin\Debug\AddNewVaribel.exe
+C:\Users\kosty\source\repos\OtherVisaviTasks\AddNewVaribel\bin\Debug\AddNewVaribel.pdb
+C:\Users\kosty\source\repos\OtherVisaviTasks\AddNewVaribel\obj\Debug\AddNewVaribel.csproj.AssemblyReference.cache
+C:\Users\kosty\source\repos\OtherVisaviTasks\AddNewVaribel\obj\Debug\MainWindow.g.cs
+C:\Users\kosty\source\repos\OtherVisaviTasks\AddNewVaribel\obj\Debug\App.g.cs
+C:\Users\kosty\source\repos\OtherVisaviTasks\AddNewVaribel\obj\Debug\AddNewVaribel_MarkupCompile.cache
+C:\Users\kosty\source\repos\OtherVisaviTasks\AddNewVaribel\obj\Debug\AddNewVaribel_MarkupCompile.lref
+C:\Users\kosty\source\repos\OtherVisaviTasks\AddNewVaribel\obj\Debug\MainWindow.baml
+C:\Users\kosty\source\repos\OtherVisaviTasks\AddNewVaribel\obj\Debug\AddNewVaribel.g.resources
+C:\Users\kosty\source\repos\OtherVisaviTasks\AddNewVaribel\obj\Debug\AddNewVaribel.Properties.Resources.resources
+C:\Users\kosty\source\repos\OtherVisaviTasks\AddNewVaribel\obj\Debug\AddNewVaribel.csproj.GenerateResource.cache
+C:\Users\kosty\source\repos\OtherVisaviTasks\AddNewVaribel\obj\Debug\AddNewVaribel.csproj.CoreCompileInputs.cache
+C:\Users\kosty\source\repos\OtherVisaviTasks\AddNewVaribel\obj\Debug\AddNewVaribel.exe
+C:\Users\kosty\source\repos\OtherVisaviTasks\AddNewVaribel\obj\Debug\AddNewVaribel.pdb
